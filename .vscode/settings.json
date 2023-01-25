@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.vms": "vms",
+        "*.cas": "css",
+        "*.cascadingstylesheets": "css",
+        "*.vmlproj": "xml",
+        "*.sr": "c",
+        "stdio.h": "c",
+        "csobj.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

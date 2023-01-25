@@ -1,6 +1,6 @@
 #include "CStar.h"
 
-int cs_log(char* content)
+int CSLog(char* content)
 {
     return printf(content);
 }
