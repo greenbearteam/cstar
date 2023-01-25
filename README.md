@@ -1,6 +1,8 @@
 <div align="center">
     <a href="https://cstar.greenbear.ml"><img src="img/cstar.png" alt="C*"></a> <br>
+    C* (c-star) is a C-based language, based on Objective-C and C++.
 </div>
+
 
 ## Useful resources
 
