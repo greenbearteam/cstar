@@ -1,0 +1,5 @@
+#include "CStar/CStar.h"
+
+int main() {
+    CSlog("Hello World!");
+}

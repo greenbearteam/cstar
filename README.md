@@ -1,16 +1,13 @@
-<div align="center">
-    <a href="https://cstar.greenbear.ml"><img src="img/cstar.png" alt="C*"></a> <br>
-    C* (c-star) is a C-based language, based on Objective-C and C++.
-</div>
+<a href="https://cstar.greenbear.ml"><img src="img/cstar.png" alt="C*"></a>
 
+<p>C* (c-star) is a C-based language, based on Objective-C and C++.</p> <br>
 
 ## Useful resources
 
 [Website]("https://cstar.greenbear.ml") <br>
-[Documentation]("https://cstar.greenbear.ml/docs")
+[Documentation]("https://cstar.greenbear.ml/docs") <br>
+[Changelog]("CHANGELOG.md")
 
-<div align="center">
-    <br>
-    <img src="https://github.com/greenbearteam/.github/blob/main/greenbear-label.png?raw=true" > <br> <br>
-    <p>Greenbear (c) 2023</p>
-</div>
+## Usage
+
+You need to download the CSDK (C* Development Kit) in the [website]("https://cstar.greenbear.ml") and import the header files on the C* program.
