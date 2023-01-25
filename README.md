@@ -3,13 +3,9 @@
 </div>
 
 ## Useful resources
-<br>
 
 [Website]("https://cstar.greenbear.ml") <br>
 [Documentation]("https://cstar.greenbear.ml/docs")
-
-
----
 
 <div align="center">
     <br>
