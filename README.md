@@ -7,7 +7,3 @@
 [Website]("https://cstar.greenbear.ml") <br>
 [Documentation]("https://cstar.greenbear.ml/docs") <br>
 [Changelog]("CHANGELOG.md")
-
-## Usage
-
-You need to download the CSDK (C* Development Kit) in the [website]("https://cstar.greenbear.ml") and import the header files on the C* program.

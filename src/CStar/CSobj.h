@@ -7,6 +7,8 @@
  * Copyright (c) 2022-2023 Greenbear. All Rights Reserved.
 */
 
-typedef struct {} CSobj;
+typedef struct {
+
+}Obj;
 
 #endif

@@ -1,0 +1,11 @@
+Install C*
+
+Requirements:
+- You need a C compiler to use C*
+
+Manual Install:
+- Download the C* latest release in Github repository.
+- In your project folder, create a include folder.
+- Extract the .zip file and copy the CStar folder to the include folder.
+
+Now you should can use C*.
