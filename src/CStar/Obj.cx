@@ -1,5 +1,5 @@
-#ifndef CSOBJ
-#define CSOBJ
+#ifndef OBJ
+#define OBJ
 
 #include <stdio.h>
 

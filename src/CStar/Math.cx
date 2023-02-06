@@ -1,8 +1,8 @@
-#ifndef CSMATH
-#define CSMATH
+#ifndef MATH
+#define MATH
 
-#include <CStype.h>
-#include <CSfunc.h>
+#include "Type.h"
+#include "CSfunc.h"
 #include <stdio.h>
 #include <math.h>
 

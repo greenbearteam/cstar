@@ -5,9 +5,9 @@
  * Copyright (c) 2022-2023 Greenbear. All Rights Reserved.
 */
 
-#include <CSobj.h>
-#include <CSfunc.h>
-#include <CStype.h>
-#include <CSmath.h>
+#include <Obj.h>
+#include <Func.h>
+#include <Type.h>
+#include <Math.h>
 
 #endif
