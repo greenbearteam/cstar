@@ -98,11 +98,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="cstar\CSfunc.h" />
-    <ClInclude Include="cstar\CSmath.h" />
-    <ClInclude Include="cstar\CSobj.h" />
-    <ClInclude Include="cstar\CStar.h" />
-    <ClInclude Include="cstar\CStype.h" />
+    <ClInclude Include="cstar\Function.hpp" />
+    <ClInclude Include="cstar\Math.hpp" />
+    <ClInclude Include="cstar\Obj.hpp" />
+    <ClInclude Include="cstar\CStar.hpp" />
+    <ClInclude Include="cstar\Type.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="cstar\CSfunc.sr" />

@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cstar\CSfunc.h">
+    <ClInclude Include="cstar\Function.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cstar\CSmath.h">
+    <ClInclude Include="cstar\Math.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cstar\CSobj.h">
+    <ClInclude Include="cstar\Obj.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cstar\CStar.h">
+    <ClInclude Include="cstar\CStar.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cstar\CStype.h">
+    <ClInclude Include="cstar\Type.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
